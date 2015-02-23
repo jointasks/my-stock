@@ -4,3 +4,12 @@ pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
 release.properties
+
+Servers
+.project
+.classpath
+.settings
+
+.metadata
+
+
